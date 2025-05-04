@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+
+# Docusaurus cache
+docusaurus-cache/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Git specific
+*.swp
+*.swo
+*.orig
+
+# Search index
+search-index.json
