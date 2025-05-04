@@ -27,6 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
+          "routeBasePath": "/",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": false,
@@ -78,7 +79,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/intro"
             }
           ]
         },

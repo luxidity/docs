@@ -43,6 +43,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: '/', // Remove the base path for docs to make them accessible at the root
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -55,7 +56,6 @@ const config = {
       }),
     ],
   ],
-
   plugins: [
     [
       '@easyops-cn/docusaurus-search-local',
@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },

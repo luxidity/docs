@@ -12,68 +12,72 @@
       "plugin": "138e0e15"
     }
   },
-  "/lucid/docs-bd4": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
-    }
-  },
-  "/lucid/docs-f07": {
-    "__comp": "a7bd4aaa",
-    "__props": "b9ea3255"
-  },
-  "/lucid/docs-622": {
-    "__comp": "a94703ab"
-  },
-  "/lucid/docs/category/tutorial---basics-c57": {
-    "__comp": "14eb3368",
-    "__props": "edcaadf5"
-  },
-  "/lucid/docs/category/tutorial---extras-3d3": {
-    "__comp": "14eb3368",
-    "__props": "5d4be764"
-  },
-  "/lucid/docs/intro-0f3": {
-    "__comp": "17896441",
-    "content": "0e384e19"
-  },
-  "/lucid/docs/tutorial-basics/congratulations-fcd": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
-  },
-  "/lucid/docs/tutorial-basics/create-a-blog-post-f7f": {
-    "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/lucid/docs/tutorial-basics/create-a-document-a56": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/lucid/docs/tutorial-basics/create-a-page-bd0": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/lucid/docs/tutorial-basics/deploy-your-site-b16": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/lucid/docs/tutorial-basics/markdown-features-c31": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/lucid/docs/tutorial-extras/manage-docs-versions-f79": {
-    "__comp": "17896441",
-    "content": "dff1c289"
-  },
-  "/lucid/docs/tutorial-extras/translate-your-site-7cc": {
-    "__comp": "17896441",
-    "content": "e44a2883"
-  },
   "/lucid/-584": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
+  },
+  "/lucid/-574": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/lucid/-182": {
+    "__comp": "a7bd4aaa",
+    "__props": "24d9bcb1"
+  },
+  "/lucid/-a6c": {
+    "__comp": "a94703ab"
+  },
+  "/lucid/category/tutorial---basics-b1a": {
+    "__comp": "14eb3368",
+    "__props": "0f4adaf6"
+  },
+  "/lucid/category/tutorial---extras-05f": {
+    "__comp": "14eb3368",
+    "__props": "922d6e43"
+  },
+  "/lucid/intro-b0d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/lucid/test-cc6": {
+    "__comp": "17896441",
+    "content": "4af26d8c"
+  },
+  "/lucid/tutorial-basics/congratulations-718": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/lucid/tutorial-basics/create-a-blog-post-1cc": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/lucid/tutorial-basics/create-a-document-3ff": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/lucid/tutorial-basics/create-a-page-5b5": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/lucid/tutorial-basics/deploy-your-site-9b8": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/lucid/tutorial-basics/markdown-features-ff1": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/lucid/tutorial-extras/manage-docs-versions-3dc": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/lucid/tutorial-extras/translate-your-site-ef8": {
+    "__comp": "17896441",
+    "content": "e44a2883"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/lucid/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/lucid/tutorial-extras/manage-docs-versions",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/lucid/docs/category/tutorial---extras"
+    "permalink": "/lucid/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/lucid/docs/tutorial-extras/translate-your-site"
+    "permalink": "/lucid/tutorial-extras/translate-your-site"
   }
 }
