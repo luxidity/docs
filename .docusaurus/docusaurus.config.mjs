@@ -8,9 +8,9 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://luxidity.github.io",
-  "baseUrl": "/lucid/",
+  "baseUrl": "/docs/",
   "organizationName": "luxidity",
-  "projectName": "lucid",
+  "projectName": "docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

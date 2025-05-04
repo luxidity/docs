@@ -18,12 +18,12 @@ const config = {
   url: 'https://luxidity.github.io', // Update the production URL to match the GitHub Pages deployment
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/lucid/',
+  baseUrl: '/docs/', // Update to match the new repository name
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'luxidity', // Your GitHub username
-  projectName: 'lucid', // Your repository name
+  projectName: 'docs', // Update to the new repository name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

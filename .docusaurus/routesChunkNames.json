@@ -1,82 +1,82 @@
 {
-  "/lucid/markdown-page-92b": {
+  "/docs/markdown-page-c78": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/lucid/search-e84": {
+  "/docs/search-b58": {
     "__comp": "1a4e3797",
     "__context": {
       "plugin": "138e0e15"
     }
   },
-  "/lucid/-584": {
+  "/docs/-6fa": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   },
-  "/lucid/-1b4": {
+  "/docs/-c30": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/lucid/-300": {
+  "/docs/-f02": {
     "__comp": "a7bd4aaa",
-    "__props": "24d9bcb1"
+    "__props": "11b43341"
   },
-  "/lucid/-308": {
+  "/docs/-71e": {
     "__comp": "a94703ab"
   },
-  "/lucid/category/tutorial---basics-b1a": {
+  "/docs/category/tutorial---basics-20e": {
     "__comp": "14eb3368",
-    "__props": "0f4adaf6"
+    "__props": "c8a4e95a"
   },
-  "/lucid/category/tutorial---extras-05f": {
+  "/docs/category/tutorial---extras-9ad": {
     "__comp": "14eb3368",
-    "__props": "922d6e43"
+    "__props": "6bb166bd"
   },
-  "/lucid/intro-551": {
+  "/docs/intro-5cc": {
     "__comp": "17896441",
     "content": "914825a2"
   },
-  "/lucid/test-892": {
+  "/docs/test-d42": {
     "__comp": "17896441",
     "content": "d9d664f0"
   },
-  "/lucid/tutorial-basics/congratulations-bd3": {
+  "/docs/tutorial-basics/congratulations-8ca": {
     "__comp": "17896441",
     "content": "b2e3e540"
   },
-  "/lucid/tutorial-basics/create-a-blog-post-7e8": {
+  "/docs/tutorial-basics/create-a-blog-post-df5": {
     "__comp": "17896441",
     "content": "b8f6fffb"
   },
-  "/lucid/tutorial-basics/create-a-document-03f": {
+  "/docs/tutorial-basics/create-a-document-a98": {
     "__comp": "17896441",
     "content": "2e92c979"
   },
-  "/lucid/tutorial-basics/create-a-page-f91": {
+  "/docs/tutorial-basics/create-a-page-194": {
     "__comp": "17896441",
     "content": "3b474e1c"
   },
-  "/lucid/tutorial-basics/deploy-your-site-517": {
+  "/docs/tutorial-basics/deploy-your-site-877": {
     "__comp": "17896441",
     "content": "734448cb"
   },
-  "/lucid/tutorial-basics/markdown-features-cf5": {
+  "/docs/tutorial-basics/markdown-features-289": {
     "__comp": "17896441",
     "content": "897da449"
   },
-  "/lucid/tutorial-extras/manage-docs-versions-740": {
+  "/docs/tutorial-extras/manage-docs-versions-d2e": {
     "__comp": "17896441",
     "content": "223bbec9"
   },
-  "/lucid/tutorial-extras/translate-your-site-e6f": {
+  "/docs/tutorial-extras/translate-your-site-870": {
     "__comp": "17896441",
     "content": "3a214595"
   }
