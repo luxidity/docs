@@ -28,6 +28,7 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.js",
           "routeBasePath": "/",
+          "path": "pages",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": false,

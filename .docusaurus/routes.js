@@ -19,15 +19,15 @@ export default [
   },
   {
     path: '/lucid/',
-    component: ComponentCreator('/lucid/', '574'),
+    component: ComponentCreator('/lucid/', '1b4'),
     routes: [
       {
         path: '/lucid/',
-        component: ComponentCreator('/lucid/', '182'),
+        component: ComponentCreator('/lucid/', '300'),
         routes: [
           {
             path: '/lucid/',
-            component: ComponentCreator('/lucid/', 'a6c'),
+            component: ComponentCreator('/lucid/', '308'),
             routes: [
               {
                 path: '/lucid/category/tutorial---basics',
@@ -43,61 +43,61 @@ export default [
               },
               {
                 path: '/lucid/intro',
-                component: ComponentCreator('/lucid/intro', 'b0d'),
+                component: ComponentCreator('/lucid/intro', '551'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/test',
-                component: ComponentCreator('/lucid/test', 'cc6'),
+                component: ComponentCreator('/lucid/test', '892'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-basics/congratulations',
-                component: ComponentCreator('/lucid/tutorial-basics/congratulations', '718'),
+                component: ComponentCreator('/lucid/tutorial-basics/congratulations', 'bd3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/lucid/tutorial-basics/create-a-blog-post', '1cc'),
+                component: ComponentCreator('/lucid/tutorial-basics/create-a-blog-post', '7e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-basics/create-a-document',
-                component: ComponentCreator('/lucid/tutorial-basics/create-a-document', '3ff'),
+                component: ComponentCreator('/lucid/tutorial-basics/create-a-document', '03f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-basics/create-a-page',
-                component: ComponentCreator('/lucid/tutorial-basics/create-a-page', '5b5'),
+                component: ComponentCreator('/lucid/tutorial-basics/create-a-page', 'f91'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/lucid/tutorial-basics/deploy-your-site', '9b8'),
+                component: ComponentCreator('/lucid/tutorial-basics/deploy-your-site', '517'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-basics/markdown-features',
-                component: ComponentCreator('/lucid/tutorial-basics/markdown-features', 'ff1'),
+                component: ComponentCreator('/lucid/tutorial-basics/markdown-features', 'cf5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/lucid/tutorial-extras/manage-docs-versions', '3dc'),
+                component: ComponentCreator('/lucid/tutorial-extras/manage-docs-versions', '740'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/lucid/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/lucid/tutorial-extras/translate-your-site', 'ef8'),
+                component: ComponentCreator('/lucid/tutorial-extras/translate-your-site', 'e6f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

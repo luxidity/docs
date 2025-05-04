@@ -44,6 +44,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Remove the base path for docs to make them accessible at the root
+          path: 'pages', // Update the path to the renamed `pages` directory
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
