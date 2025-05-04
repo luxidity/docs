@@ -3,90 +3,90 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/lucid/markdown-page',
+    component: ComponentCreator('/lucid/markdown-page', '92b'),
     exact: true
   },
   {
-    path: '/search',
-    component: ComponentCreator('/search', '822'),
+    path: '/lucid/search',
+    component: ComponentCreator('/lucid/search', 'e84'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/lucid/docs',
+    component: ComponentCreator('/lucid/docs', 'bd4'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/lucid/docs',
+        component: ComponentCreator('/lucid/docs', 'f07'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/lucid/docs',
+            component: ComponentCreator('/lucid/docs', '622'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/lucid/docs/category/tutorial---basics',
+                component: ComponentCreator('/lucid/docs/category/tutorial---basics', 'c57'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/lucid/docs/category/tutorial---extras',
+                component: ComponentCreator('/lucid/docs/category/tutorial---extras', '3d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/lucid/docs/intro',
+                component: ComponentCreator('/lucid/docs/intro', '0f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/lucid/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/lucid/docs/tutorial-basics/congratulations', 'fcd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/lucid/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/lucid/docs/tutorial-basics/create-a-blog-post', 'f7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/lucid/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/lucid/docs/tutorial-basics/create-a-document', 'a56'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/lucid/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/lucid/docs/tutorial-basics/create-a-page', 'bd0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/lucid/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/lucid/docs/tutorial-basics/deploy-your-site', 'b16'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/lucid/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/lucid/docs/tutorial-basics/markdown-features', 'c31'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/lucid/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/lucid/docs/tutorial-extras/manage-docs-versions', 'f79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/lucid/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/lucid/docs/tutorial-extras/translate-your-site', '7cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -97,8 +97,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/lucid/',
+    component: ComponentCreator('/lucid/', '584'),
     exact: true
   },
   {
